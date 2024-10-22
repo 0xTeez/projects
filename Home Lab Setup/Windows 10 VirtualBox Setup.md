@@ -1,4 +1,4 @@
-Setup home lab in VirtualBox to test security applications and Azure. 
+Setup home lab in Virtual Box to test security applications and Azure. 
 
 - **Application used**:
   - Microsoft Windows
