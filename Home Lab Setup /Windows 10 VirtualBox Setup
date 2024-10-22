@@ -1,1 +1,9 @@
-<i>Setting up Windows 10 Virtual Machine in Virtual Box to use Security Applications and Azure.</i>
+Setting up Windows 10 Virtual Machine in Virtual Box to use Security Applications and Azure.
+
+- **Applications used**:
+-Virtual Box
+-Microsoft Windows
+
+- **Steps Followed**:
+1. **Navigated to the VirtualBox website: https://www.virtualbox.org/**
+2. **Select the Downloads link on the left side pane**
