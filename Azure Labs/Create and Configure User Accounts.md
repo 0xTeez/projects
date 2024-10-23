@@ -1,7 +1,7 @@
 Creating user accounts in Azure Entra ID. 
 
 - **Application used**:
-  -Azure Entra ID
+  - Azure Entra ID
 
 
 - **Steps Followed**:
